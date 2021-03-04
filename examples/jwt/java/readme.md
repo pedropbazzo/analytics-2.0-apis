@@ -19,5 +19,5 @@
 6. Run
 
 ``` $ java -jar target/IMS-Client-1.0-SNAPSHOT-jar-with-dependencies.jar```
-
+ 
 
